@@ -1,0 +1,2 @@
+Enter degree in Fahrenheit:354
+Degree in Celsius is:178.88888888888889
