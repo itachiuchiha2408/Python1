@@ -1,0 +1,8 @@
+file=open("Practical-1.txt",'w')
+Fahrenheit=int(input("Enter degree in Fahrenheit:"))
+file.write("Enter degree in Fahrenheit:")
+file.write(str(Fahrenheit))
+file.write('\n')
+Celsius=(5/9)*(Fahrenheit-32)
+file.write("Degree in Celsius is:")
+file.write(str(Celsius))
